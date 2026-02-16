@@ -4,4 +4,4 @@ This project is around exploratory data analysis for the King County Housing dat
 
 ## Luxury Map Preview
 
-[![Luxury Map Preview](Image/luxury_map.png.jpg)](https://github.com/STofighi71/EDA-King-County-Dataset/raw/main/luxury_waterfront_map.html)
+[![Luxury Map Preview](Image/luxury_map.png.jpg)](https://github.com/STofighi71/EDA-King-County-Dataset/blob/main/luxury_waterfront_map.html)
